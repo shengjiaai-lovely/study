@@ -37,12 +37,32 @@
     2. 4
     3. 5
 
-# 表格
+## 表格
 
 1|2|3
 ---|:---:|---:
 居左|居中|居右
 
 不懂为什么没成功
+
+## 代码
+
+```cpp
+
+#include<iostream>
+using namespace std;
+{
+    cout<<"hello world";
+}
+
+## 分割线
+--------
+
+
+## 超链接
+[百度搜索](https://www.baidu.com "悬停提示“)
+
+
+
 
 
