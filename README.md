@@ -55,6 +55,9 @@ using namespace std;
     cout<<"hello world";
 }
 
+```
+
+
 ## 分割线
 --------
 
@@ -62,6 +65,9 @@ using namespace std;
 ## 超链接
 [百度搜索](https://www.baidu.com "悬停提示“)
 
+## 显示图片
+
+![图片](网络图片链接)
 
 
 
